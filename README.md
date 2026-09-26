@@ -1,3 +1,3 @@
 # Rixel Dev
-### Official Website https://rainyuu.lol 
-### Official Discord Server https://rainyuu.lol/invite
+### Official Website https://RixelDev.lol 
+### Official Discord Server https://RixelDev.lol/invite
