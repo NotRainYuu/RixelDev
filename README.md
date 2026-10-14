@@ -23,7 +23,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/NotRainYuu/RixelDev/m
 
 Alternative direct endpoint:
 ```lua
-loadstring(game:HttpGet("https://rixeldev.lol/loader"))()
+loadstring(game:HttpGet("https://script.rixeldev.lol/loader"))()
 ```
 
 ---
