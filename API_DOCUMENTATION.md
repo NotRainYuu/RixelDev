@@ -1,10 +1,10 @@
-# 🌐 Rixel Hub Open API — Developer Documentation & Integration Guide
+#  Rixel Hub Open API — Developer Documentation & Integration Guide
 
 Welcome to the **Rixel Hub Open API**. This API is designed for third-party developers, script hub aggregators (such as ScriptBlox alternatives), custom Roblox executors, Discord bots, and web applications looking to integrate Rixel Hub's vast library of **377+ automated game scripts**.
 
 ---
 
-## ⚡ Quick Overview
+##  Quick Overview
 
 - **Base URL**: `https://script.rixeldev.lol/api/v1`
 - **Authentication**: **None required** (100% Free & Open Public API)
@@ -28,7 +28,7 @@ Welcome to the **Rixel Hub Open API**. This API is designed for third-party deve
 
 ---
 
-## 📖 API Reference
+##  API Reference
 
 ### 1. List Supported Games
 Retrieve all games currently supported by Rixel Hub with high-resolution thumbnails, game names, tags, and loader strings.
@@ -153,7 +153,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/NotRainYuu/RixelDev/m
 
 ---
 
-## 💻 Integration Code Examples
+##  Integration Code Examples
 
 ### 1. JavaScript / TypeScript (Node.js, Electron, Next.js)
 ```typescript
@@ -262,7 +262,7 @@ end
 
 ---
 
-## 🛡️ Best Practices & Guidelines for Integrators
+##  Best Practices & Guidelines for Integrators
 
 1. **Cache Responses**: Game metadata changes infrequently. We recommend caching responses locally on your server or app for at least 15–30 minutes to reduce network overhead.
 2. **Handle 404 Gracefully**: If `/scripts/{placeId}` returns 404, prompt users that the current place is not yet indexed, and optionally provide the global loader as a fallback.
@@ -270,7 +270,7 @@ end
 
 ---
 
-## 📞 Support & Community
+##  Support & Community
 
 - **Official Website**: [https://RixelDev.lol](https://RixelDev.lol)
 - **Discord Community**: [https://Rixeldev.lol/invite](https://Rixeldev.lol/invite)
