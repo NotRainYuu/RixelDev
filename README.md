@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Rixel Hub ⚡
+#  Rixel Hub 
 **The Ultimate All-in-One Multi-Game Roblox Automation Hub**
 
 [![Supported Games](https://img.shields.io/badge/Supported%20Games-377+-blue.svg?style=for-the-badge&logo=roblox)](https://RixelDev.lol)
@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Quick Execution
+##  Quick Execution
 
 Run the official script in your executor (compatible with Wave, Solara, Delta, Synapse Z, AWP, etc.):
 
@@ -28,7 +28,7 @@ loadstring(game:HttpGet("https://script.rixeldev.lol/loader"))()
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 
 - **377+ Games Supported**: Automatically identifies the active `PlaceId` and dynamically loads the dedicated high-performance script.
 - **Frosted Glass Key System**: Sleek, modern verification UI powered by Jnkie with local key caching.
@@ -37,7 +37,7 @@ loadstring(game:HttpGet("https://script.rixeldev.lol/loader"))()
 
 ---
 
-## 🔗 Official Links
+##  Official Links
 
 - **Official Website**: [https://RixelDev.lol](https://RixelDev.lol)
 - **Discord Community**: [https://Rixeldev.lol/invite](https://Rixeldev.lol/invite)
